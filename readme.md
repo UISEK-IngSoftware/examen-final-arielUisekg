@@ -2,8 +2,7 @@
 # Examen Final - Aplicación Ionic Futurama
 
 ## Datos del estudiantes
-- Nombre: ______________________
-
+- Nombre: Ariel Garcés
 ## 📋 Objetivo
 
 Desarrollar una aplicación móvil utilizando Ionic + React que muestre una lista de personajes de Futurama consumiendo datos de una API REST externa.
